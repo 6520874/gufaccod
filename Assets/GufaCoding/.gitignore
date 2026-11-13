@@ -1,0 +1,3 @@
+# 这个文件夹放在 Unity 项目的 Assets/ 下，Unity 会自动生成 .meta
+.DS_Store
+Thumbs.db
